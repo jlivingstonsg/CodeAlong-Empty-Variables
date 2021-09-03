@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace CodeAlong_Empty_Variables
+namespace MVC_Basics_1_Empty
 {
     public class Program
     {
